@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+}
+
+.invoiceOutput {
+  margin-top: 50px;
+  border: 1px solid #000;
+  min-height: 500px;
+  width:75%;
+  box-shadow: 10px 10px;
+}
+
+.invoice {
+  width: 60%;
+  margin-top: 50px;
+}
+
+.invoice p {
+  margin-top: 30px;
+}
